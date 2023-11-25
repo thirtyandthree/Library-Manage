@@ -7,8 +7,8 @@ import java.util.regex.Pattern;
 import java.util.regex.Matcher;
 
 public class gpt {
-    private static final String API_KEY = "sk-bCnBAlsepSdqg8DaM6RCGKAk4DrF46rq9tNy6tv32xJvJk6S";
-    private static final String API_URL = "https://api.chatanywhere.com.cn/v1/chat/completions";
+    private static final String API_KEY = "";
+    private static final String API_URL = "";
 
     public  String chatgpt(String content) {
         String userMessage = content;
